@@ -26,7 +26,6 @@ A curated list of awesome rdma resources
 - [RDMA Aware Networks Programming User Manual](https://www.mellanox.com/related-docs/prod_software/RDMA_Aware_Programming_user_manual.pdf)
 - [Verbs programming tutorial](https://www.csm.ornl.gov/workshops/openshmem2013/documents/presentations_and_tutorials/Tutorials/Verbs%20programming%20tutorial-final.pdf) by Dotan Barak 2014
 - [RDMA-Tutorial](https://github.com/jcxue/RDMA-Tutorial/wiki)
-- 
 
 ## Projects
 
@@ -36,3 +35,4 @@ A curated list of awesome rdma resources
 
 - [Mellanox Academy](https://academy.mellanox.com/en/)
 - [Mellanox Blog](https://blog.mellanox.com/)
+- [http://www.roceinitiative.org/](http://www.roceinitiative.org/)
