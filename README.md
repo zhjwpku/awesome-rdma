@@ -36,3 +36,4 @@ A curated list of awesome rdma resources
 - [Mellanox Academy](https://academy.mellanox.com/en/)
 - [Mellanox Blog](https://blog.mellanox.com/)
 - [http://www.roceinitiative.org/](http://www.roceinitiative.org/)
+- [Verbs programming tutorial](https://www.cs.mtsu.edu/~waderholdt/6430/papers/ibverbs.pdf)
